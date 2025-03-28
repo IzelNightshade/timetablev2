@@ -1,0 +1,448 @@
+{
+  "Grade 10A": {
+    "0": [
+      "Physics"
+    ],
+    "1": [
+      "Physics"
+    ],
+    "2": [
+      "Physics"
+    ],
+    "3": [],
+    "4": [
+      "Math"
+    ],
+    "5": [
+      "English"
+    ],
+    "6": [
+      "English"
+    ],
+    "7": [
+      "History"
+    ],
+    "8": [],
+    "9": [
+      "Physical Education"
+    ],
+    "10": [
+      "Biology"
+    ],
+    "11": [
+      "English"
+    ],
+    "12": [
+      "Computer Science"
+    ],
+    "13": [],
+    "14": [],
+    "15": [
+      "Music"
+    ],
+    "16": [
+      "Computer Science"
+    ],
+    "17": [
+      "Art"
+    ],
+    "18": [
+      "English"
+    ],
+    "19": [
+      "Math"
+    ],
+    "20": [
+      "Geography"
+    ],
+    "21": [
+      "Art"
+    ],
+    "22": [
+      "Biology"
+    ],
+    "23": [
+      "English"
+    ],
+    "24": [
+      "Math"
+    ],
+    "25": [
+      "History"
+    ],
+    "26": [
+      "Biology"
+    ],
+    "27": [
+      "Geography"
+    ],
+    "28": [
+      "History"
+    ],
+    "29": [
+      "Math"
+    ],
+    "30": [
+      "Physical Education"
+    ],
+    "31": [
+      "Music"
+    ],
+    "32": [
+      "Math"
+    ],
+    "33": [],
+    "34": [
+      "Physics"
+    ],
+    "35": [
+      "History"
+    ],
+    "36": [
+      "Math"
+    ],
+    "37": [
+      "Biology"
+    ],
+    "38": [
+      "Geography"
+    ],
+    "39": [
+      "Computer Science"
+    ]
+  },
+  "Grade 10B": {
+    "0": [],
+    "1": [
+      "Chemistry"
+    ],
+    "2": [
+      "Chemistry"
+    ],
+    "3": [
+      "English"
+    ],
+    "4": [
+      "English"
+    ],
+    "5": [
+      "Physical Education"
+    ],
+    "6": [],
+    "7": [
+      "Geography"
+    ],
+    "8": [
+      "History"
+    ],
+    "9": [],
+    "10": [
+      "Computer Science"
+    ],
+    "11": [
+      "Math"
+    ],
+    "12": [
+      "English"
+    ],
+    "13": [
+      "Environmental Science"
+    ],
+    "14": [
+      "Math"
+    ],
+    "15": [],
+    "16": [
+      "Geography"
+    ],
+    "17": [
+      "Computer Science"
+    ],
+    "18": [
+      "English"
+    ],
+    "19": [
+      "History"
+    ],
+    "20": [],
+    "21": [],
+    "22": [
+      "Environmental Science"
+    ],
+    "23": [
+      "Math"
+    ],
+    "24": [
+      "History"
+    ],
+    "25": [
+      "Computer Science"
+    ],
+    "26": [
+      "Math"
+    ],
+    "27": [
+      "Physical Education"
+    ],
+    "28": [
+      "Chemistry"
+    ],
+    "29": [
+      "Environmental Science"
+    ],
+    "30": [
+      "Economics"
+    ],
+    "31": [
+      "Psychology"
+    ],
+    "32": [
+      "History"
+    ],
+    "33": [
+      "Psychology"
+    ],
+    "34": [
+      "Geography"
+    ],
+    "35": [
+      "Economics"
+    ],
+    "36": [
+      "Math"
+    ],
+    "37": [
+      "English"
+    ],
+    "38": [
+      "Math"
+    ],
+    "39": [
+      "Chemistry"
+    ]
+  },
+  "Grade 11A": {
+    "0": [
+      "English"
+    ],
+    "1": [
+      "Physics"
+    ],
+    "2": [
+      "Music"
+    ],
+    "3": [
+      "Physics"
+    ],
+    "4": [
+      "Chemistry"
+    ],
+    "5": [
+      "Art"
+    ],
+    "6": [],
+    "7": [
+      "Science"
+    ],
+    "8": [
+      "Science"
+    ],
+    "9": [
+      "Science"
+    ],
+    "10": [
+      "Physics"
+    ],
+    "11": [
+      "Science"
+    ],
+    "12": [
+      "English"
+    ],
+    "13": [],
+    "14": [],
+    "15": [
+      "Computer Science"
+    ],
+    "16": [
+      "Art"
+    ],
+    "17": [
+      "History"
+    ],
+    "18": [
+      "Physical Education"
+    ],
+    "19": [
+      "Science"
+    ],
+    "20": [
+      "Computer Science"
+    ],
+    "21": [
+      "Chemistry"
+    ],
+    "22": [
+      "English"
+    ],
+    "23": [
+      "Chemistry"
+    ],
+    "24": [
+      "Physics"
+    ],
+    "25": [
+      "History"
+    ],
+    "26": [
+      "Music"
+    ],
+    "27": [
+      "Geography"
+    ],
+    "28": [
+      "English"
+    ],
+    "29": [
+      "History"
+    ],
+    "30": [],
+    "31": [
+      "Geography"
+    ],
+    "32": [
+      "English"
+    ],
+    "33": [
+      "Physical Education"
+    ],
+    "34": [
+      "History"
+    ],
+    "35": [],
+    "36": [
+      "Science"
+    ],
+    "37": [
+      "Chemistry"
+    ],
+    "38": [
+      "Geography"
+    ],
+    "39": [
+      "Computer Science"
+    ]
+  },
+  "Grade 11B": {
+    "0": [
+      "Physical Education"
+    ],
+    "1": [
+      "Math"
+    ],
+    "2": [
+      "Biology"
+    ],
+    "3": [],
+    "4": [
+      "Environmental Science"
+    ],
+    "5": [
+      "Science"
+    ],
+    "6": [
+      "History"
+    ],
+    "7": [
+      "Math"
+    ],
+    "8": [
+      "Geography"
+    ],
+    "9": [],
+    "10": [],
+    "11": [
+      "History"
+    ],
+    "12": [
+      "History"
+    ],
+    "13": [
+      "Physical Education"
+    ],
+    "14": [
+      "Biology"
+    ],
+    "15": [],
+    "16": [
+      "Biology"
+    ],
+    "17": [
+      "Math"
+    ],
+    "18": [
+      "Science"
+    ],
+    "19": [
+      "Math"
+    ],
+    "20": [
+      "Geography"
+    ],
+    "21": [
+      "Economics"
+    ],
+    "22": [
+      "History"
+    ],
+    "23": [
+      "Environmental Science"
+    ],
+    "24": [
+      "Geography"
+    ],
+    "25": [
+      "Science"
+    ],
+    "26": [
+      "Science"
+    ],
+    "27": [
+      "Psychology"
+    ],
+    "28": [
+      "Math"
+    ],
+    "29": [
+      "Psychology"
+    ],
+    "30": [
+      "Computer Science"
+    ],
+    "31": [],
+    "32": [
+      "Science"
+    ],
+    "33": [
+      "Computer Science"
+    ],
+    "34": [
+      "Biology"
+    ],
+    "35": [
+      "Math"
+    ],
+    "36": [
+      "Computer Science"
+    ],
+    "37": [
+      "Economics"
+    ],
+    "38": [
+      "Environmental Science"
+    ],
+    "39": [
+      "Science"
+    ]
+  }
+}

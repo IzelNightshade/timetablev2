@@ -1,0 +1,188 @@
+{
+    "classes": [
+        {
+            "class": "Grade 10A",
+            "subjects": [
+                "Math",
+                "English",
+                "Physics",
+                "Biology",
+                "History",
+                "Geography",
+                "Computer Science",
+                "Physical Education",
+                "Art",
+                "Music"
+            ]
+        },
+        {
+            "class": "Grade 10B",
+            "subjects": [
+                "Math",
+                "English",
+                "Chemistry",
+                "Environmental Science",
+                "History",
+                "Geography",
+                "Computer Science",
+                "Physical Education",
+                "Economics",
+                "Psychology"
+            ]
+        },
+        {
+            "class": "Grade 11A",
+            "subjects": [
+                "Science",
+                "English",
+                "Physics",
+                "Chemistry",
+                "History",
+                "Geography",
+                "Computer Science",
+                "Physical Education",
+                "Art",
+                "Music"
+            ]
+        },
+        {
+            "class": "Grade 11B",
+            "subjects": [
+                "Math",
+                "Science",
+                "History",
+                "Biology",
+                "Geography",
+                "Computer Science",
+                "Environmental Science",
+                "Physical Education",
+                "Economics",
+                "Psychology"
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "Subject": "Math",
+            "Periods": 6
+        },
+        {
+            "Subject": "English",
+            "Periods": 5
+        },
+        {
+            "Subject": "Physics",
+            "Periods": 4
+        },
+        {
+            "Subject": "Chemistry",
+            "Periods": 4
+        },
+        {
+            "Subject": "Biology",
+            "Periods": 4
+        },
+        {
+            "Subject": "History",
+            "Periods": 4
+        },
+        {
+            "Subject": "Geography",
+            "Periods": 3
+        },
+        {
+            "Subject": "Computer Science",
+            "Periods": 3
+        },
+        {
+            "Subject": "Environmental Science",
+            "Periods": 3
+        },
+        {
+            "Subject": "Physical Education",
+            "Periods": 2
+        },
+        {
+            "Subject": "Art",
+            "Periods": 2
+        },
+        {
+            "Subject": "Music",
+            "Periods": 2
+        },
+        {
+            "Subject": "Economics",
+            "Periods": 2
+        },
+        {
+            "Subject": "Psychology",
+            "Periods": 2
+        },
+        {
+            "Subject": "Science",
+            "Periods": 6
+        }
+    ],
+    "teachers": [
+        {
+            "Teacher": "T1",
+            "Subject": "Math"
+        },
+        {
+            "Teacher": "T2",
+            "Subject": "English"
+        },
+        {
+            "Teacher": "T3",
+            "Subject": "Physics"
+        },
+        {
+            "Teacher": "T4",
+            "Subject": "Chemistry"
+        },
+        {
+            "Teacher": "T5",
+            "Subject": "Biology"
+        },
+        {
+            "Teacher": "T6",
+            "Subject": "History"
+        },
+        {
+            "Teacher": "T7",
+            "Subject": "Geography"
+        },
+        {
+            "Teacher": "T8",
+            "Subject": "Computer Science"
+        },
+        {
+            "Teacher": "T9",
+            "Subject": "Environmental Science"
+        },
+        {
+            "Teacher": "T10",
+            "Subject": "Physical Education"
+        },
+        {
+            "Teacher": "T11",
+            "Subject": "Art"
+        },
+        {
+            "Teacher": "T12",
+            "Subject": "Music"
+        },
+        {
+            "Teacher": "T13",
+            "Subject": "Economics"
+        },
+        {
+            "Teacher": "T14",
+            "Subject": "Psychology"
+        },
+        {
+            "Teacher": "T15",
+            "Subject": "Science"
+        }
+    ]
+}
