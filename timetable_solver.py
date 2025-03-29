@@ -70,20 +70,44 @@ status = solver.Solve(model)
 
 if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
     timetable = {}
+    free_periods = {}  # To store free periods count per class
+    
     for c in classes:
         class_name = c["class"]
         timetable[class_name] = {str(s): [] for s in range(SLOTS)}
+        free_count = 0
+        
         for subject in c["subjects"]:
             for s in range(SLOTS):
                 if solver.Value(schedule[class_name][subject][s]):
                     timetable[class_name][str(s)].append(subject)
+        
+        # Count free periods
+        for s in range(SLOTS):
+            if not timetable[class_name][str(s)]:  # Empty list means free period
+                free_count += 1
+        free_periods[class_name] = free_count
     
     # Save to JSON file
     with open("timetable_output.json", "w") as outfile:
         json.dump(timetable, outfile, indent=2)
     
+    # Print results
     print("✅ Timetable generated successfully!")
     print(f"📊 Consecutive repeats: {solver.ObjectiveValue()}")
-    print("💾 Saved to 'timetable_output.json'")
+    print("\n📝 Free periods per class:")
+    for class_name, count in free_periods.items():
+        print(f"{class_name}: {count} free periods")
+    print("\n💾 Saved to 'timetable_output.json'")
 else:
     print("❌ No feasible solution found!")
+
+    if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
+        return {
+            "status": "success",
+            "timetable": timetable,
+            "free_periods": free_periods,
+            "consecutive_repeats": solver.ObjectiveValue()
+        }
+    else:
+        return {"status": "fail", "message": "No feasible solution"}
