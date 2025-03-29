@@ -1,0 +1,146 @@
+{
+    "classes": [
+        {
+            "class": "Grade 9A",
+            "subjects": [
+                "Math",
+                "English",
+                "Physics",
+                "Chemistry",
+                "History",
+                "Geography",
+                "Computer Science",
+                "Physical Education",
+                "Art",
+                "Drama"
+            ]
+        },
+        {
+            "class": "Grade 9B",
+            "subjects": [
+                "Math",
+                "English",
+                "Biology",
+                "Economics",
+                "History",
+                "Geography",
+                "Computer Science",
+                "Physical Education",
+                "Music",
+                "Psychology"
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "Subject": "Math",
+            "Periods": 5
+        },
+        {
+            "Subject": "English",
+            "Periods": 5
+        },
+        {
+            "Subject": "Physics",
+            "Periods": 4
+        },
+        {
+            "Subject": "Chemistry",
+            "Periods": 3
+        },
+        {
+            "Subject": "Biology",
+            "Periods": 3
+        },
+        {
+            "Subject": "History",
+            "Periods": 4
+        },
+        {
+            "Subject": "Geography",
+            "Periods": 3
+        },
+        {
+            "Subject": "Computer Science",
+            "Periods": 3
+        },
+        {
+            "Subject": "Economics",
+            "Periods": 2
+        },
+        {
+            "Subject": "Physical Education",
+            "Periods": 2
+        },
+        {
+            "Subject": "Art",
+            "Periods": 2
+        },
+        {
+            "Subject": "Drama",
+            "Periods": 2
+        },
+        {
+            "Subject": "Music",
+            "Periods": 2
+        },
+        {
+            "Subject": "Psychology",
+            "Periods": 2
+        }
+    ],
+    "teachers": [
+        {
+            "Teacher": "T1",
+            "Subject": "Math"
+        },
+        {
+            "Teacher": "T2",
+            "Subject": "English"
+        },
+        {
+            "Teacher": "T3",
+            "Subject": "Physics"
+        },
+        {
+            "Teacher": "T4",
+            "Subject": "Chemistry"
+        },
+        {
+            "Teacher": "T5",
+            "Subject": "Biology"
+        },
+        {
+            "Teacher": "T6",
+            "Subject": "History"
+        },
+        {
+            "Teacher": "T7",
+            "Subject": "Geography"
+        },
+        {
+            "Teacher": "T8",
+            "Subject": "Computer Science"
+        },
+        {
+            "Teacher": "T9",
+            "Subject": "Economics"
+        },
+        {
+            "Teacher": "T10",
+            "Subject": "Physical Education"
+        },
+        {
+            "Teacher": "T11",
+            "Subject": "Art"
+        },
+        {
+            "Teacher": "T13",
+            "Subject": "Music"
+        },
+        {
+            "Teacher": "T14",
+            "Subject": "Psychology"
+        }
+    ]
+}
